@@ -9,4 +9,5 @@
 - [WeeklyChallenge170.yxmd](WeeklyChallenge170): Challenge #170: 2019 Grand Prix US - Heat 1
 - [WeeklyChallenge213.yxmd](WeeklyChallenge213.yxmd): Challenge #213: Optimized Flower Arrangements
 - [WeeklyChallenge230.yxzp](WeeklyChallenge230.yxzp): Challenge #230: Take a Look, It's in a Book!
+- [WeeklyChallenge233.yxzp](WeeklyChallenge233.yxzp) : Challenge #233: The Truth Is Out There
 - [WeeklyChallenge244.yxzp](WeeklyChallenge244.yxzp): Challenge #244: Cats and Dogs
