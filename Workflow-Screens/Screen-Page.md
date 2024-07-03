@@ -12,4 +12,5 @@
 - [WeeklyChallenge170.png](WeeklyChallenge170.PNG): Challenge #170: 2019 Grand Prix US - Heat 1
 - [WeeklyChallenge175_Step1.png](WeeklyChallenge175_Step1.PNG): Challenge #175: Tire Size Calculator
 - [WeeklyChallenge175_Step2.png](WeeklyChallenge175_Step2.PNG): Challenge #175: Tire Size Calculator
+- [WeeklyChallenge175_Step3.png](WeeklyChallenge175_Step3.PNG): Challenge #175: Tire Size Calculator
 - [WeeklyChallenge213.png](WeeklyChallenge213.PNG): Challenge #213: Optimized Flower Arrangements
