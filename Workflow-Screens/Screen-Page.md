@@ -9,4 +9,5 @@
 - [WeeklyChallenge115.png](WeeklyChallenge115.PNG): Challenge #115: Let's get crafty!
 - [WeeklyChallenge132.png](WeeklyChallenge132.PNG): Challenge #132: When Will Community Hit 1,000,000 Posts?
 - [WeeklyChallenge158.png](WeeklyChallenge158.PNG): Challenge #158: Personality Quiz
-- [WeeklyChallenge170.png]([WeeklyChallenge170.PNG): Challenge #170: 2019 Grand Prix US - Heat 1
+- [WeeklyChallenge170.png](WeeklyChallenge170.PNG): Challenge #170: 2019 Grand Prix US - Heat 1
+- [WeeklyChallenge175.png](WeeklyChallenge175.PNG): Challenge #175: Tire Size Calculator
