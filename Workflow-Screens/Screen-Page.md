@@ -11,3 +11,4 @@
 - [WeeklyChallenge158.png](WeeklyChallenge158.PNG): Challenge #158: Personality Quiz
 - [WeeklyChallenge170.png](WeeklyChallenge170.PNG): Challenge #170: 2019 Grand Prix US - Heat 1
 - [WeeklyChallenge175.png](WeeklyChallenge175.PNG): Challenge #175: Tire Size Calculator
+- [WeeklyChallenge213.png](WeeklyChallenge213.PNG): Challenge #213: Optimized Flower Arrangements
