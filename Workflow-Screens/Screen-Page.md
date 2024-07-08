@@ -20,4 +20,5 @@
 - [WeeklyChallenge213.png](WeeklyChallenge213.PNG): Challenge #213: Optimized Flower Arrangements
 - [WeeklyChallenge230.png](WeeklyChallenge230.PNG): Challenge #230: Take a Look, It's in a Book!
 - [WeeklyChallenge233.png](WeeklyChallenge233.PNG): Challenge #233: The Truth Is Out There
+- [WeeklyChallenge238.png](WeeklyChallenge238.png): Challenge #238: Ideal Gases Don't Exist
 - [WeeklyChallenge244.png](WeeklyChallenge244.PNG): Challenge #244: Cats and Dogs
