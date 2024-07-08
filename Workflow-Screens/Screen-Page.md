@@ -19,6 +19,7 @@
 - [WeeklyChallenge175Macro.png](WeeklyChallenge175Macro.PNG): Challenge #175: Tire Size Calculator
 - [WeeklyChallenge213.png](WeeklyChallenge213.PNG): Challenge #213: Optimized Flower Arrangements
 - [WeeklyChallenge215.png](WeeklyChallenge215.PNG): Challenge #215: Gotta Catch 'em All!
+- [WeeklyChallenge215Macro.png](WeeklyChallenge215Macro.PNG): Challenge #215: Gotta Catch 'em All!
 - [WeeklyChallenge230.png](WeeklyChallenge230.PNG): Challenge #230: Take a Look, It's in a Book!
 - [WeeklyChallenge233.png](WeeklyChallenge233.PNG): Challenge #233: The Truth Is Out There
 - [WeeklyChallenge238.png](WeeklyChallenge238.PNG): Challenge #238: Ideal Gases Don't Exist
