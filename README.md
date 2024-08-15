@@ -14,6 +14,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge1.yxmd](WeeklyChallenge1.yxmd): Challenge #1: Join to Range
 <br><br> ![WeeklyChallenge1.png](Workflow-Screens/WeeklyChallenge1.PNG)
 - [WeeklyChallenge2.yxmd](WeeklyChallenge2.yxmd): Challenge #2: Preparing Delimited Data
+<br><br> ![WeeklyChallenge2.png](Workflow-Screens/WeeklyChallenge2.PNG)
 - [WeeklyChallenge3.yxzp](WeeklyChallenge3.yxzp): Challenge #3: Running Averages
 - [WeeklyChallenge91.yxwz](WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds
 - [WeeklyChallenge115.yxwz](WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty!
