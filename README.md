@@ -12,6 +12,7 @@ This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
 
 Here is a list of the weekly challenges included in this repository along with their respective solution files:
 - [WeeklyChallenge1.yxmd](WeeklyChallenge1.yxmd): Challenge #1: Join to Range
+<br><br> ![WeeklyChallenge1.png](Workflow-Screens/WeeklyChallenge1.PNG)
 - [WeeklyChallenge2.yxmd](WeeklyChallenge2.yxmd): Challenge #2: Preparing Delimited Data
 - [WeeklyChallenge3.yxzp](WeeklyChallenge3.yxzp): Challenge #3: Running Averages
 - [WeeklyChallenge91.yxwz](WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds
