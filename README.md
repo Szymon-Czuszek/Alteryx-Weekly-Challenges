@@ -18,6 +18,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge3.yxzp](WeeklyChallenge3.yxzp): Challenge #3: Running Averages
 <br><br> ![WeeklyChallenge3.png](Workflow-Screens/WeeklyChallenge3.PNG)
 - [WeeklyChallenge91.yxwz](WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds
+<br><br> ![WeeklyChallenge91.png](Workflow-Screens/WeeklyChallenge91.PNG)
 - [WeeklyChallenge115.yxwz](WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty!
 - [WeeklyChallenge132.yxmd](WeeklyChallenge132.yxmd): Challenge #132: When Will Community Hit 1,000,000 Posts?
 - [WeeklyChallenge158.yxwz](WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
