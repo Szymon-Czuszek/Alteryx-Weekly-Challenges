@@ -22,6 +22,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge115.yxwz](WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty!
 <br><br> ![WeeklyChallenge115.png](Workflow-Screens/WeeklyChallenge115.PNG)
 - [WeeklyChallenge132.yxmd](WeeklyChallenge132.yxmd): Challenge #132: When Will Community Hit 1,000,000 Posts?
+<br><br> ![WeeklyChallenge132.png](Workflow-Screens/WeeklyChallenge132.PNG)
 - [WeeklyChallenge158.yxwz](WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
 - [WeeklyChallenge170.yxmd](WeeklyChallenge170): Challenge #170: 2019 Grand Prix US - Heat 1
 - [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator
