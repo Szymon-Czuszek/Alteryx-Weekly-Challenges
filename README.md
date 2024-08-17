@@ -26,6 +26,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge158.yxwz](WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
 <br><br> ![WeeklyChallenge158.png](Workflow-Screens/WeeklyChallenge158.PNG)
 - [WeeklyChallenge170.yxmd](WeeklyChallenge170): Challenge #170: 2019 Grand Prix US - Heat 1
+<br><br> ![WeeklyChallenge170.png](Workflow-Screens/WeeklyChallenge170.PNG)
 - [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator
 - [WeeklyChallenge213.yxmd](WeeklyChallenge213.yxmd): Challenge #213: Optimized Flower Arrangements
 - [WeeklyChallenge215.yxzp](WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All!
