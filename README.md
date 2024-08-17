@@ -30,6 +30,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator
 <br><br> ![WeeklyChallenge175.png](Workflow-Screens/WeeklyChallenge175.PNG)
 - [WeeklyChallenge213.yxmd](WeeklyChallenge213.yxmd): Challenge #213: Optimized Flower Arrangements
+<br><br> ![WeeklyChallenge213.png](Workflow-Screens/WeeklyChallenge213.PNG)
 - [WeeklyChallenge215.yxzp](WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All!
 - [WeeklyChallenge230.yxzp](WeeklyChallenge230.yxzp): Challenge #230: Take a Look, It's in a Book!
 - [WeeklyChallenge233.yxzp](WeeklyChallenge233.yxzp): Challenge #233: The Truth Is Out There
