@@ -38,6 +38,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge233.yxzp](WeeklyChallenge233.yxzp): Challenge #233: The Truth Is Out There
 <br><br> ![WeeklyChallenge233.png](Workflow-Screens/WeeklyChallenge233.PNG)
 - [WeeklyChallenge238.yxzp](WeeklyChallenge238.yxzp): Challenge #238: Ideal Gases Don't Exist
+<br><br> ![WeeklyChallenge238.png](Workflow-Screens/WeeklyChallenge238.PNG)
 - [WeeklyChallenge244.yxzp](WeeklyChallenge244.yxzp): Challenge #244: Cats and Dogs
 
 ## Workflow Screens
