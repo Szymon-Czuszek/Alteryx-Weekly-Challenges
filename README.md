@@ -40,6 +40,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge238.yxzp](WeeklyChallenge238.yxzp): Challenge #238: Ideal Gases Don't Exist
 <br><br> ![WeeklyChallenge238.png](Workflow-Screens/WeeklyChallenge238.PNG)
 - [WeeklyChallenge244.yxzp](WeeklyChallenge244.yxzp): Challenge #244: Cats and Dogs
+<br><br> ![WeeklyChallenge244.png](Workflow-Screens/WeeklyChallenge244.PNG)
 
 ## Workflow Screens
 
