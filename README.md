@@ -33,6 +33,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge158.png](Workflow-Screens/WeeklyChallenge158.PNG)
 - [WeeklyChallenge170.yxmd](WeeklyChallenge170): Challenge #170: 2019 Grand Prix US - Heat 1
 <br><br> ![WeeklyChallenge170.png](Workflow-Screens/WeeklyChallenge170.PNG)
+- [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 1
 - [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Macro
 <br><br> ![WeeklyChallenge175Macro.PNG](Workflow-Screens/WeeklyChallenge175Macro.PNG)
 - [WeeklyChallenge213.yxmd](WeeklyChallenge213.yxmd): Challenge #213: Optimized Flower Arrangements
