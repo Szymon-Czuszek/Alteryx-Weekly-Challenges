@@ -38,6 +38,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 2
 <br><br> ![WeeklyChallenge175_Step2.png](Workflow-Screens/WeeklyChallenge175_Step2.PNG)
 - [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 3
+<br><br> ![WeeklyChallenge175_Step3.png](Workflow-Screens/WeeklyChallenge175_Step3.PNG)
 - [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Macro
 <br><br> ![WeeklyChallenge175Macro.png](Workflow-Screens/WeeklyChallenge175Macro.PNG)
 - [WeeklyChallenge213.yxmd](WeeklyChallenge213.yxmd): Challenge #213: Optimized Flower Arrangements
