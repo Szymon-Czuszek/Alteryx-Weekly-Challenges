@@ -45,7 +45,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge213.png](Workflow-Screens/WeeklyChallenge213.PNG)
 - [WeeklyChallenge215.yxzp](WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All!
 <br><br> ![WeeklyChallenge215.png](Workflow-Screens/WeeklyChallenge215.PNG)
-WeeklyChallenge215Macro.PNG
+- [WeeklyChallenge215.yxzp](WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All! Macro WeeklyChallenge215Macro.PNG
 - [WeeklyChallenge230.yxzp](WeeklyChallenge230.yxzp): Challenge #230: Take a Look, It's in a Book!
 <br><br> ![WeeklyChallenge230.png](Workflow-Screens/WeeklyChallenge230.PNG)
 - [WeeklyChallenge233.yxzp](WeeklyChallenge233.yxzp): Challenge #233: The Truth Is Out There
