@@ -20,7 +20,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge3.yxzp](WeeklyChallenge3.yxzp): Challenge #3: Running Averages Macro
 <br><br> ![WeeklyChallenge3Macro.png](Workflow-Screens/WeeklyChallenge3Macro.PNG)
 - [WeeklyChallenge39.yxzp](WeeklyChallenge39.yxzp): Challenge #39: Troubleshoot a Broken Macro (Macro)
-<br><br> ![WeeklyChallenge39Macro.png](Workflow-Screens/WeeklyChallenge39Macro.PNG)
+<br><br> ![WeeklyChallenge39Macro.png](Workflow-Screens/WeeklyChallenge39Macro.png)
 - [WeeklyChallenge91.yxwz](WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds
 <br><br> ![WeeklyChallenge91.png](Workflow-Screens/WeeklyChallenge91.PNG)
 - [WeeklyChallenge91.yxwz](WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds Interface
