@@ -60,7 +60,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge240.yxzp](WeeklyChallenge240.yxzp): Challenge #240: Every Vote Counts!
 <br><br> ![WeeklyChallenge240.png](Workflow-Screens/WeeklyChallenge240.PNG)
 - [WeeklyChallenge240.yxzp](WeeklyChallenge240.yxzp): Challenge #240: Every Vote Counts!
-<br><br> ![WeeklyChallenge240.png](Workflow-Screens/WeeklyChallenge240Macro.png)
+<br><br> ![WeeklyChallenge240.png](Workflow-Screens/WeeklyChallenge240Macro.PNG)
 - [WeeklyChallenge244.yxzp](WeeklyChallenge244.yxzp): Challenge #244: Cats and Dogs
 <br><br> ![WeeklyChallenge244.png](Workflow-Screens/WeeklyChallenge244.PNG)
 
