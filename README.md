@@ -11,57 +11,57 @@ This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
 ## Snippet List
 
 Here is a list of the weekly challenges included in this repository along with their respective solution files:
-- [WeeklyChallenge1.yxmd](WeeklyChallenge1.yxmd): Challenge #1: Join to Range
+- [WeeklyChallenge1.yxmd](Workflow-Files/WeeklyChallenge1.yxmd): Challenge #1: Join to Range
 <br><br> ![WeeklyChallenge1.png](Workflow-Screens/WeeklyChallenge1.PNG)
-- [WeeklyChallenge2.yxmd](WeeklyChallenge2.yxmd): Challenge #2: Preparing Delimited Data
+- [WeeklyChallenge2.yxmd](Workflow-Files/WeeklyChallenge2.yxmd): Challenge #2: Preparing Delimited Data
 <br><br> ![WeeklyChallenge2.png](Workflow-Screens/WeeklyChallenge2.PNG)
-- [WeeklyChallenge3.yxzp](WeeklyChallenge3.yxzp): Challenge #3: Running Averages
+- [WeeklyChallenge3.yxzp](Workflow-Files/WeeklyChallenge3.yxzp): Challenge #3: Running Averages
 <br><br> ![WeeklyChallenge3.png](Workflow-Screens/WeeklyChallenge3.PNG)
-- [WeeklyChallenge3.yxzp](WeeklyChallenge3.yxzp): Challenge #3: Running Averages Macro
+- [WeeklyChallenge3.yxzp](Workflow-Files/WeeklyChallenge3.yxzp): Challenge #3: Running Averages (Macro)
 <br><br> ![WeeklyChallenge3Macro.png](Workflow-Screens/WeeklyChallenge3Macro.PNG)
-- [WeeklyChallenge39.yxzp](WeeklyChallenge39.yxzp): Challenge #39: Troubleshoot a Broken Macro
+- [WeeklyChallenge39.yxzp](Workflow-Files/WeeklyChallenge39.yxzp): Challenge #39: Troubleshoot a Broken Macro
 <br><br> ![WeeklyChallenge39Macro.png](Workflow-Screens/WeeklyChallenge39.png)
-- [WeeklyChallenge39.yxzp](WeeklyChallenge39.yxzp): Challenge #39: Troubleshoot a Broken Macro (Macro)
+- [WeeklyChallenge39.yxzp](Workflow-Files/WeeklyChallenge39.yxzp): Challenge #39: Troubleshoot a Broken Macro (Macro)
 <br><br> ![WeeklyChallenge39Macro.png](Workflow-Screens/WeeklyChallenge39Macro.png)
-- [WeeklyChallenge91.yxwz](WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds
+- [WeeklyChallenge91.yxwz](Workflow-Files/WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds
 <br><br> ![WeeklyChallenge91.png](Workflow-Screens/WeeklyChallenge91.PNG)
-- [WeeklyChallenge91.yxwz](WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds Interface
+- [WeeklyChallenge91.yxwz](Workflow-Files/WeeklyChallenge91.yxwz): Challenge #91: Getting into the Weeds Interface
 <br><br> ![WeeklyChallenge91Interface.png](Workflow-Screens/WeeklyChallenge91Interface.PNG)
-- [WeeklyChallenge115.yxwz](WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty!
+- [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty!
 <br><br> ![WeeklyChallenge115.png](Workflow-Screens/WeeklyChallenge115.PNG)
-- [WeeklyChallenge115.yxwz](WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty! Macro
+- [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty! (Macro)
 <br><br> ![WeeklyChallenge115Macro.png](Workflow-Screens/WeeklyChallenge115Macro.PNG)
-- [WeeklyChallenge132.yxmd](WeeklyChallenge132.yxmd): Challenge #132: When Will Community Hit 1,000,000 Posts?
+- [WeeklyChallenge132.yxmd](Workflow-Files/WeeklyChallenge132.yxmd): Challenge #132: When Will Community Hit 1,000,000 Posts?
 <br><br> ![WeeklyChallenge132.png](Workflow-Screens/WeeklyChallenge132.PNG)
-- [WeeklyChallenge158.yxwz](WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
+- [WeeklyChallenge158.yxwz](Workflow-Files/WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
 <br><br> ![WeeklyChallenge158.png](Workflow-Screens/WeeklyChallenge158.PNG)
-- [WeeklyChallenge170.yxmd](WeeklyChallenge170): Challenge #170: 2019 Grand Prix US - Heat 1
+- [WeeklyChallenge170.yxmd](Workflow-Files/WeeklyChallenge170): Challenge #170: 2019 Grand Prix US - Heat 1
 <br><br> ![WeeklyChallenge170.png](Workflow-Screens/WeeklyChallenge170.PNG)
-- [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 1
+- [WeeklyChallenge175.yxzp](Workflow-Files/WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 1
 <br><br> ![WeeklyChallenge175_Step1.png](Workflow-Screens/WeeklyChallenge175_Step1.PNG)
-- [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 2
+- [WeeklyChallenge175.yxzp](Workflow-Files/WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 2
 <br><br> ![WeeklyChallenge175_Step2.png](Workflow-Screens/WeeklyChallenge175_Step2.PNG)
-- [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 3
+- [WeeklyChallenge175.yxzp](Workflow-Files/WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 3
 <br><br> ![WeeklyChallenge175_Step3.png](Workflow-Screens/WeeklyChallenge175_Step3.PNG)
-- [WeeklyChallenge175.yxzp](WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Macro
+- [WeeklyChallenge175.yxzp](Workflow-Files/WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator (Macro)
 <br><br> ![WeeklyChallenge175Macro.png](Workflow-Screens/WeeklyChallenge175Macro.PNG)
-- [WeeklyChallenge213.yxmd](WeeklyChallenge213.yxmd): Challenge #213: Optimized Flower Arrangements
+- [WeeklyChallenge213.yxmd](Workflow-Files/WeeklyChallenge213.yxmd): Challenge #213: Optimized Flower Arrangements
 <br><br> ![WeeklyChallenge213.png](Workflow-Screens/WeeklyChallenge213.PNG)
-- [WeeklyChallenge215.yxzp](WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All!
+- [WeeklyChallenge215.yxzp](Workflow-Files/WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All!
 <br><br> ![WeeklyChallenge215.png](Workflow-Screens/WeeklyChallenge215.PNG)
-- [WeeklyChallenge215.yxzp](WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All! Macro
+- [WeeklyChallenge215.yxzp](Workflow-Files/WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All! Macro
 <br><br> ![WeeklyChallenge215Macro.png](Workflow-Screens/WeeklyChallenge215Macro.PNG)
-- [WeeklyChallenge230.yxzp](WeeklyChallenge230.yxzp): Challenge #230: Take a Look, It's in a Book!
+- [WeeklyChallenge230.yxzp](Workflow-Files/WeeklyChallenge230.yxzp): Challenge #230: Take a Look, It's in a Book!
 <br><br> ![WeeklyChallenge230.png](Workflow-Screens/WeeklyChallenge230.PNG)
-- [WeeklyChallenge233.yxzp](WeeklyChallenge233.yxzp): Challenge #233: The Truth Is Out There
+- [WeeklyChallenge233.yxzp](Workflow-Files/WeeklyChallenge233.yxzp): Challenge #233: The Truth Is Out There
 <br><br> ![WeeklyChallenge233.png](Workflow-Screens/WeeklyChallenge233.PNG)
-- [WeeklyChallenge238.yxzp](WeeklyChallenge238.yxzp): Challenge #238: Ideal Gases Don't Exist
+- [WeeklyChallenge238.yxzp](Workflow-Files/WeeklyChallenge238.yxzp): Challenge #238: Ideal Gases Don't Exist
 <br><br> ![WeeklyChallenge238.png](Workflow-Screens/WeeklyChallenge238.PNG)
-- [WeeklyChallenge240.yxzp](WeeklyChallenge240.yxzp): Challenge #240: Every Vote Counts!
+- [WeeklyChallenge240.yxzp](Workflow-Files/WeeklyChallenge240.yxzp): Challenge #240: Every Vote Counts!
 <br><br> ![WeeklyChallenge240.png](Workflow-Screens/WeeklyChallenge240.PNG)
-- [WeeklyChallenge240.yxzp](WeeklyChallenge240.yxzp): Challenge #240: Every Vote Counts!
+- [WeeklyChallenge240.yxzp](Workflow-Files/WeeklyChallenge240.yxzp): Challenge #240: Every Vote Counts!
 <br><br> ![WeeklyChallenge240.png](Workflow-Screens/WeeklyChallenge240Macro.PNG)
-- [WeeklyChallenge244.yxzp](WeeklyChallenge244.yxzp): Challenge #244: Cats and Dogs
+- [WeeklyChallenge244.yxzp](Workflow-Files/WeeklyChallenge244.yxzp): Challenge #244: Cats and Dogs
 <br><br> ![WeeklyChallenge244.png](Workflow-Screens/WeeklyChallenge244.PNG)
 
 ## Workflow Screens
