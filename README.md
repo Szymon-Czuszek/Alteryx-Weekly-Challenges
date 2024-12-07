@@ -66,7 +66,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge246.yxzp](Workflow-Files/WeeklyChallenge246.yxzp): Challenge #246: Rectangle Tangle
 <br><br> ![WeeklyChallenge246.png](Workflow-Screens/WeeklyChallenge246.png)
 - [WeeklyChallenge246.yxzp](Workflow-Files/WeeklyChallenge246.yxzp): Challenge #246: Rectangle Tangle (Macro)
-<br><br> ![WeeklyChallenge246.png](Workflow-Screens/WeeklyChallenge246Macro.png)
+<br><br> ![WeeklyChallenge246.png](Workflow-Screens/WeeklyChallenge246Macro.PNG)
 
 ## Workflow Screens
 
