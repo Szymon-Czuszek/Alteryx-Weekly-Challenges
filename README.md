@@ -12,21 +12,21 @@ This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
 
 Here is a list of the weekly challenges included in this repository along with their respective solution files:
 - [WeeklyChallenge1.yxmd](Workflow-Files/WeeklyChallenge001.yxmd): Challenge #1: Join to Range
-<br><br> ![WeeklyChallenge1.PNG](Workflow-Screens/WeeklyChallenge1.PNG)
+<br><br> ![WeeklyChallenge001.PNG](Workflow-Screens/WeeklyChallenge001.PNG)
 - [WeeklyChallenge002.yxmd](Workflow-Files/WeeklyChallenge002.yxmd): Challenge #2: Preparing Delimited Data
-<br><br> ![WeeklyChallenge2.PNG](Workflow-Screens/WeeklyChallenge2.PNG)
+<br><br> ![WeeklyChallenge002.PNG](Workflow-Screens/WeeklyChallenge002.PNG)
 - [WeeklyChallenge003.yxzp](Workflow-Files/WeeklyChallenge003.yxzp): Challenge #3: Running Averages
-<br><br> ![WeeklyChallenge3.PNG](Workflow-Screens/WeeklyChallenge3.PNG)
+<br><br> ![WeeklyChallenge003.PNG](Workflow-Screens/WeeklyChallenge003.PNG)
 - [WeeklyChallenge003.yxzp](Workflow-Files/WeeklyChallenge003.yxzp): Challenge #3: Running Averages (Macro)
-<br><br> ![WeeklyChallenge3Macro.PNG](Workflow-Screens/WeeklyChallenge3Macro.PNG)
+<br><br> ![WeeklyChallenge003Macro.PNG](Workflow-Screens/WeeklyChallenge003Macro.PNG)
 - [WeeklyChallenge039.yxzp](Workflow-Files/WeeklyChallenge039.yxzp): Challenge #39: Troubleshoot a Broken Macro
-<br><br> ![WeeklyChallenge39Macro.PNG](Workflow-Screens/WeeklyChallenge39.PNG)
+<br><br> ![WeeklyChallenge039Macro.PNG](Workflow-Screens/WeeklyChallenge039.PNG)
 - [WeeklyChallenge039.yxzp](Workflow-Files/WeeklyChallenge039.yxzp): Challenge #39: Troubleshoot a Broken Macro (Macro)
-<br><br> ![WeeklyChallenge39Macro.PNG](Workflow-Screens/WeeklyChallenge39Macro.PNG)
+<br><br> ![WeeklyChallenge039Macro.PNG](Workflow-Screens/WeeklyChallenge39Macro.PNG)
 - [WeeklyChallenge091.yxwz](Workflow-Files/WeeklyChallenge091.yxwz): Challenge #91: Getting into the Weeds
-<br><br> ![WeeklyChallenge91.PNG](Workflow-Screens/WeeklyChallenge91.PNG)
+<br><br> ![WeeklyChallenge091.PNG](Workflow-Screens/WeeklyChallenge91.PNG)
 - [WeeklyChallenge091.yxwz](Workflow-Files/WeeklyChallenge091.yxwz): Challenge #91: Getting into the Weeds Interface
-<br><br> ![WeeklyChallenge91Interface.PNG](Workflow-Screens/WeeklyChallenge91Interface.PNG)
+<br><br> ![WeeklyChallenge091Interface.PNG](Workflow-Screens/WeeklyChallenge91Interface.PNG)
 - [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty!
 <br><br> ![WeeklyChallenge115.PNG](Workflow-Screens/WeeklyChallenge115.PNG)
 - [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty! (Macro)
