@@ -26,7 +26,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge091.yxwz](Workflow-Files/WeeklyChallenge091.yxwz): Challenge #91: Getting into the Weeds
 <br><br> ![WeeklyChallenge091.PNG](Workflow-Screens/WeeklyChallenge091.PNG)
 - [WeeklyChallenge091.yxwz](Workflow-Files/WeeklyChallenge091.yxwz): Challenge #91: Getting into the Weeds Interface
-<br><br> ![WeeklyChallenge091Interface.PNG](Workflow-Screens/WeeklyChallenge91Interface.PNG)
+<br><br> ![WeeklyChallenge091Interface.PNG](Workflow-Screens/WeeklyChallenge091Interface.PNG)
 - [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty!
 <br><br> ![WeeklyChallenge115.PNG](Workflow-Screens/WeeklyChallenge115.PNG)
 - [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty! (Macro)
