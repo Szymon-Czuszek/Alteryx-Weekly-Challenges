@@ -31,6 +31,12 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge115.PNG](Workflow-Screens/WeeklyChallenge115.PNG)
 - [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty! (Macro)
 <br><br> ![WeeklyChallenge115Macro.PNG](Workflow-Screens/WeeklyChallenge115Macro.PNG)
+
+- [WeeklyChallenge118.yxzp](Workflow-Files/WeeklyChallenge118.yxwz): Challenge #118: Think Like a CSE - A not-so-wild-wildcard input!
+<br><br> ![WeeklyChallenge118.PNG](Workflow-Screens/WeeklyChallenge118.PNG)
+- [WeeklyChallenge118.yxzp](Workflow-Files/WeeklyChallenge118.yxwz): Challenge #118: Think Like a CSE - A not-so-wild-wildcard input! (Macro)
+<br><br> ![WeeklyChallenge118Macro.PNG](Workflow-Screens/WeeklyChallenge118Macro.PNG)
+
 - [WeeklyChallenge132.yxmd](Workflow-Files/WeeklyChallenge132.yxmd): Challenge #132: When Will Community Hit 1,000,000 Posts?
 <br><br> ![WeeklyChallenge132.PNG](Workflow-Screens/WeeklyChallenge132.PNG)
 - [WeeklyChallenge158.yxwz](Workflow-Files/WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
