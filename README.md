@@ -37,7 +37,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge118Macro.PNG](Workflow-Screens/WeeklyChallenge118Macro.PNG)
 - [WeeklyChallenge132.yxmd](Workflow-Files/WeeklyChallenge132.yxmd): Challenge #132: When Will Community Hit 1,000,000 Posts?
 <br><br> ![WeeklyChallenge132.PNG](Workflow-Screens/WeeklyChallenge132.PNG)
-- [WeeklyChallenge149.yxmd](Workflow-Files/WeeklyChallenge149.yxwz): Challenge #149: Market Overlap
+- [WeeklyChallenge149.yxmd](Workflow-Files/WeeklyChallenge149.yxmd): Challenge #149: Market Overlap
 <br><br> ![WeeklyChallenge149.PNG](Workflow-Screens/WeeklyChallenge149.PNG)
 - [WeeklyChallenge158.yxwz](Workflow-Files/WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
 <br><br> ![WeeklyChallenge158.PNG](Workflow-Screens/WeeklyChallenge158.PNG)
