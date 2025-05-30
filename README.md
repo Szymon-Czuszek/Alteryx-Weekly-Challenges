@@ -1,4 +1,4 @@
-# Alteryx Weekly Challenges
+# 🧩 Alteryx Weekly Challenges
 
 Welcome to the Alteryx Weekly Challenges repository! This repository contains solutions to various weekly challenges provided by Alteryx. Each challenge is designed to enhance your data analysis and problem-solving skills using Alteryx Designer.
 
