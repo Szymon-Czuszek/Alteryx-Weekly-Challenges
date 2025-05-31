@@ -78,7 +78,7 @@ Here is a list of the weekly challenges included in this repository along with t
 - [WeeklyChallenge246.yxzp](Workflow-Files/WeeklyChallenge246.yxwz): Challenge #246: Rectangle Tangle (Macro)
 <br><br> ![WeeklyChallenge246Macro.PNG](Workflow-Screens/WeeklyChallenge246Macro.PNG)
 
-## Workflow Screens
+## 📝 Workflow Screens
 
 To view the workflows as is in the Alteryx Designer, go to the [Screen-Page.md](Workflow-Screens/Screen-Page.md).
 
