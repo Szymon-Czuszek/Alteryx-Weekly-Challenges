@@ -11,7 +11,7 @@ This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
 ## 📂 Snippet List
 
 Here is a list of the weekly challenges included in this repository along with their respective solution files:
-📌 [WeeklyChallenge1.yxmd](Workflow-Files/WeeklyChallenge001.yxmd): Challenge #1: Join to Range
+- [WeeklyChallenge1.yxmd](Workflow-Files/WeeklyChallenge001.yxmd): 📌 Challenge #1: Join to Range
 <br><br> ![WeeklyChallenge001.PNG](Workflow-Screens/WeeklyChallenge001.PNG)
 - [WeeklyChallenge002.yxmd](Workflow-Files/WeeklyChallenge002.yxmd): Challenge #2: Preparing Delimited Data
 <br><br> ![WeeklyChallenge002.PNG](Workflow-Screens/WeeklyChallenge002.PNG)
