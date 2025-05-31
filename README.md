@@ -8,7 +8,7 @@ The challenges themselves, along with the starting files provided for each chall
 
 This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
 
-## Snippet List
+## 📂 Snippet List
 
 Here is a list of the weekly challenges included in this repository along with their respective solution files:
 - [WeeklyChallenge1.yxmd](Workflow-Files/WeeklyChallenge001.yxmd): Challenge #1: Join to Range
