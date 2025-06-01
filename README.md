@@ -15,7 +15,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge001.PNG](Workflow-Screens/WeeklyChallenge001.PNG)
 - [WeeklyChallenge002.yxmd](Workflow-Files/WeeklyChallenge002.yxmd): 📌 Challenge #2: Preparing Delimited Data
 <br><br> ![WeeklyChallenge002.PNG](Workflow-Screens/WeeklyChallenge002.PNG)
-- [WeeklyChallenge003.yxzp](Workflow-Files/WeeklyChallenge003.yxzp): Challenge #3: Running Averages
+- [WeeklyChallenge003.yxzp](Workflow-Files/WeeklyChallenge003.yxzp): 📌 Challenge #3: Running Averages
 <br><br> ![WeeklyChallenge003.PNG](Workflow-Screens/WeeklyChallenge003.PNG)
 - [WeeklyChallenge003.yxzp](Workflow-Files/WeeklyChallenge003.yxzp): Challenge #3: Running Averages (Macro)
 <br><br> ![WeeklyChallenge003Macro.PNG](Workflow-Screens/WeeklyChallenge003Macro.PNG)
