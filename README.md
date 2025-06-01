@@ -21,7 +21,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge003Macro.PNG](Workflow-Screens/WeeklyChallenge003Macro.PNG)
 - [WeeklyChallenge039.yxzp](Workflow-Files/WeeklyChallenge039.yxzp): 📌 Challenge #39: Troubleshoot a Broken Macro
 <br><br> ![WeeklyChallenge039Macro.PNG](Workflow-Screens/WeeklyChallenge039.PNG)
-- [WeeklyChallenge039.yxzp](Workflow-Files/WeeklyChallenge039.yxzp): Challenge #39: Troubleshoot a Broken Macro (Macro)
+- [WeeklyChallenge039.yxzp](Workflow-Files/WeeklyChallenge039.yxzp): 📌 Challenge #39: Troubleshoot a Broken Macro (Macro)
 <br><br> ![WeeklyChallenge039Macro.PNG](Workflow-Screens/WeeklyChallenge039Macro.PNG)
 - [WeeklyChallenge091.yxwz](Workflow-Files/WeeklyChallenge091.yxwz): Challenge #91: Getting into the Weeds
 <br><br> ![WeeklyChallenge091.PNG](Workflow-Screens/WeeklyChallenge091.PNG)
