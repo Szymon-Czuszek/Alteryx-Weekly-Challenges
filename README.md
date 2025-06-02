@@ -29,7 +29,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge091Interface.PNG](Workflow-Screens/WeeklyChallenge091Interface.PNG)
 - [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): 📌 Challenge #115: Let's get crafty!
 <br><br> ![WeeklyChallenge115.PNG](Workflow-Screens/WeeklyChallenge115.PNG)
-- [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): Challenge #115: Let's get crafty! (Macro)
+- [WeeklyChallenge115.yxwz](Workflow-Files/WeeklyChallenge115.yxwz): 📌 Challenge #115: Let's get crafty! (Macro)
 <br><br> ![WeeklyChallenge115Macro.PNG](Workflow-Screens/WeeklyChallenge115Macro.PNG)
 - [WeeklyChallenge118.yxzp](Workflow-Files/WeeklyChallenge118.yxwz): Challenge #118: Think Like a CSE - A not-so-wild-wildcard input!
 <br><br> ![WeeklyChallenge118.PNG](Workflow-Screens/WeeklyChallenge118.PNG)
