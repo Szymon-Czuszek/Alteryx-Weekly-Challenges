@@ -37,7 +37,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge118Macro.PNG](Workflow-Screens/WeeklyChallenge118Macro.PNG)
 - [WeeklyChallenge132.yxmd](Workflow-Files/WeeklyChallenge132.yxmd): 📌 Challenge #132: When Will Community Hit 1,000,000 Posts?
 <br><br> ![WeeklyChallenge132.PNG](Workflow-Screens/WeeklyChallenge132.PNG)
-- [WeeklyChallenge133.yxzp](Workflow-Files/WeeklyChallenge133.yxzp): Challenge #133: US Grand Prix Prelims - NASA Location Analysis
+- [WeeklyChallenge133.yxzp](Workflow-Files/WeeklyChallenge133.yxzp): 📌 Challenge #133: US Grand Prix Prelims - NASA Location Analysis
 <br><br> ![WeeklyChallenge133.PNG](Workflow-Screens/WeeklyChallenge133.PNG)
 - [WeeklyChallenge133.yxzp](Workflow-Files/WeeklyChallenge133.yxzp): Challenge #133: US Grand Prix Prelims - NASA Location Analysis (Macro)
 <br><br> ![WeeklyChallenge133Macro.PNG](Workflow-Screens/WeeklyChallenge133Macro.PNG)
