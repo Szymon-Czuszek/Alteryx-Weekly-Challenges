@@ -43,7 +43,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge133Macro.PNG](Workflow-Screens/WeeklyChallenge133Macro.PNG)
 - [WeeklyChallenge149.yxmd](Workflow-Files/WeeklyChallenge149.yxmd): 📌 Challenge #149: Market Overlap
 <br><br> ![WeeklyChallenge149.PNG](Workflow-Screens/WeeklyChallenge149.PNG)
-- [WeeklyChallenge158.yxwz](Workflow-Files/WeeklyChallenge158.yxwz): Challenge #158: Personality Quiz
+- [WeeklyChallenge158.yxwz](Workflow-Files/WeeklyChallenge158.yxwz): 📌 Challenge #158: Personality Quiz
 <br><br> ![WeeklyChallenge158.PNG](Workflow-Screens/WeeklyChallenge158.PNG)
 - [WeeklyChallenge170.yxmd](Workflow-Files/WeeklyChallenge170): Challenge #170: 2019 Grand Prix US - Heat 1
 <br><br> ![WeeklyChallenge170.PNG](Workflow-Screens/WeeklyChallenge170.PNG)
