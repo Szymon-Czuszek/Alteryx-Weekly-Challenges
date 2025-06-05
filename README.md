@@ -47,7 +47,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge158.PNG](Workflow-Screens/WeeklyChallenge158.PNG)
 - [WeeklyChallenge170.yxmd](Workflow-Files/WeeklyChallenge170): 📌 Challenge #170: 2019 Grand Prix US - Heat 1
 <br><br> ![WeeklyChallenge170.PNG](Workflow-Screens/WeeklyChallenge170.PNG)
-- [WeeklyChallenge175.yxzp](Workflow-Files/WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 1
+- [WeeklyChallenge175.yxzp](Workflow-Files/WeeklyChallenge175.yxzp): 📌 Challenge #175: Tire Size Calculator Step 1
 <br><br> ![WeeklyChallenge175_Step1.PNG](Workflow-Screens/WeeklyChallenge175Step1.PNG)
 - [WeeklyChallenge175.yxzp](Workflow-Files/WeeklyChallenge175.yxzp): Challenge #175: Tire Size Calculator Step 2
 <br><br> ![WeeklyChallenge175_Step2.PNG](Workflow-Screens/WeeklyChallenge175Step2.PNG)
