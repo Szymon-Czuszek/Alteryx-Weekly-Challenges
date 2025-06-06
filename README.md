@@ -65,7 +65,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge230.PNG](Workflow-Screens/WeeklyChallenge230.PNG)
 - [WeeklyChallenge233.yxzp](Workflow-Files/WeeklyChallenge233.yxzp): 📌 Challenge #233: The Truth Is Out There
 <br><br> ![WeeklyChallenge233.PNG](Workflow-Screens/WeeklyChallenge233.PNG)
-- [WeeklyChallenge238.yxzp](Workflow-Files/WeeklyChallenge238.yxzp): Challenge #238: Ideal Gases Don't Exist
+- [WeeklyChallenge238.yxzp](Workflow-Files/WeeklyChallenge238.yxzp): 📌 Challenge #238: Ideal Gases Don't Exist
 <br><br> ![WeeklyChallenge238.PNG](Workflow-Screens/WeeklyChallenge238.PNG)
 - [WeeklyChallenge240.yxzp](Workflow-Files/WeeklyChallenge240.yxzp): Challenge #240: Every Vote Counts!
 <br><br> ![WeeklyChallenge240.PNG](Workflow-Screens/WeeklyChallenge240.PNG)
