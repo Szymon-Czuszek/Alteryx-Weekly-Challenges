@@ -57,7 +57,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge175Macro.PNG](Workflow-Screens/WeeklyChallenge175Macro.PNG)
 - [WeeklyChallenge213.yxmd](Workflow-Files/WeeklyChallenge213.yxmd): 📌 Challenge #213: Optimized Flower Arrangements
 <br><br> ![WeeklyChallenge213.PNG](Workflow-Screens/WeeklyChallenge213.PNG)
-- [WeeklyChallenge215.yxzp](Workflow-Files/WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All!
+- [WeeklyChallenge215.yxzp](Workflow-Files/WeeklyChallenge215.yxzp): 📌 Challenge #215: Gotta Catch 'em All!
 <br><br> ![WeeklyChallenge215.PNG](Workflow-Screens/WeeklyChallenge215.PNG)
 - [WeeklyChallenge215.yxzp](Workflow-Files/WeeklyChallenge215.yxzp): Challenge #215: Gotta Catch 'em All! Macro
 <br><br> ![WeeklyChallenge215Macro.PNG](Workflow-Screens/WeeklyChallenge215Macro.PNG)
