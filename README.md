@@ -85,6 +85,6 @@ To view the workflows as is in the Alteryx Designer, go to the [Screen-Page.md](
 ## License
 The solutions and any other original content in this repository are licensed under the MIT License. However, please note that the challenges themselves and the starting files provided for each challenge are proprietary to Alteryx Inc. and are not covered under this license. For more details about the MIT license, please refer to the [LICENSE](LICENSE) file.
 
-## Closing Remarks
+## 🌍 Closing Remarks
 
 Feel free to explore the solutions and enhance your Alteryx skills. Contributions and discussions are welcome!
