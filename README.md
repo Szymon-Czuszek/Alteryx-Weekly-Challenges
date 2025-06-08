@@ -73,7 +73,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge240.PNG](Workflow-Screens/WeeklyChallenge240Macro.PNG)
 - [WeeklyChallenge244.yxzp](Workflow-Files/WeeklyChallenge244.yxzp): 📌 Challenge #244: Cats and Dogs
 <br><br> ![WeeklyChallenge244.PNG](Workflow-Screens/WeeklyChallenge244.PNG)
-- [WeeklyChallenge246.yxzp](Workflow-Files/WeeklyChallenge246.yxwz): Challenge #246: Rectangle Tangle
+- [WeeklyChallenge246.yxzp](Workflow-Files/WeeklyChallenge246.yxwz): 📌 Challenge #246: Rectangle Tangle
 <br><br> ![WeeklyChallenge246.PNG](Workflow-Screens/WeeklyChallenge246.PNG)
 - [WeeklyChallenge246.yxzp](Workflow-Files/WeeklyChallenge246.yxwz): Challenge #246: Rectangle Tangle (Macro)
 <br><br> ![WeeklyChallenge246Macro.PNG](Workflow-Screens/WeeklyChallenge246Macro.PNG)
