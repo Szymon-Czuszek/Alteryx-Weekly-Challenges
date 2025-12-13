@@ -2,8 +2,7 @@
 - Welcome to the Alteryx Weekly Challenges repository! This repository contains solutions to various weekly challenges provided by Alteryx. Each challenge is designed to enhance your data analysis and problem-solving skills using Alteryx Designer.
 
 ## ⚠️ Important Notice
-
-The challenges themselves, along with the starting files provided for each challenge, are the property of Alteryx Inc. These materials are not subject to the MIT license that governs the rest of the content in this repository. The MIT license applies only to the solutions and other original content created by the repository owner.
+- The challenges themselves, along with the starting files provided for each challenge, are the property of Alteryx Inc. These materials are not subject to the MIT license that governs the rest of the content in this repository. The MIT license applies only to the solutions and other original content created by the repository owner.
 
 This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
 
