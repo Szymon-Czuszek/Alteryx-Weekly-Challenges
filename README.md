@@ -76,8 +76,7 @@ Here is a list of the weekly challenges included in this repository along with t
 <br><br> ![WeeklyChallenge246Macro.PNG](Workflow-Screens/WeeklyChallenge246Macro.PNG)
 
 ## 📝 Workflow Screens
-
-To view the workflows as is in the Alteryx Designer, go to the [Screen-Page.md](Workflow-Screens/Screen-Page.md).
+- To view the workflows as is in the Alteryx Designer, go to the [Screen-Page.md](Workflow-Screens/Screen-Page.md).
 
 ## License
 The solutions and any other original content in this repository are licensed under the MIT License. However, please note that the challenges themselves and the starting files provided for each challenge are proprietary to Alteryx Inc. and are not covered under this license. For more details about the MIT license, please refer to the [LICENSE](LICENSE) file.
