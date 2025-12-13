@@ -3,8 +3,7 @@
 
 ## ⚠️ Important Notice
 - The challenges themselves, along with the starting files provided for each challenge, are the property of Alteryx Inc. These materials are not subject to the MIT license that governs the rest of the content in this repository. The MIT license applies only to the solutions and other original content created by the repository owner.
-
-This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
+- This repository is not affiliated with or endorsed by Alteryx Inc. in any way.
 
 ## 📂 Snippet List
 
